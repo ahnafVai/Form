@@ -1,5 +1,13 @@
-p {
-    color: aqua;
-    background-color: rebeccapurple;
+nav>ul>Li {
+    display: inline;
+    margin-right: 20px;
+}
 
+nav>ul>li>a {
+    text-decoration: none;
+}
+
+footer {
+    margin-top: 30px;
+    text-align: center;
 }
